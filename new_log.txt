@@ -1,0 +1,1 @@
+Дата вызова функции: 06/04/21 18:28:03; Имя функции: strings_hash; Аргументы: ['countries.txt']; Результат вызова: <generator object strings_hash at 0x000001DCAD598B30>.
